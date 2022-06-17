@@ -1,7 +1,8 @@
 # individual-project-neetra
  Build a flight booking application 
  
-# Project report is [here](Individual Project.docx) 
+# Project report
+- Link is [here](Individual Project.docx) 
  
 # Steps to build the project
 - Navigate to your project directory
